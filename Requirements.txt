@@ -1,0 +1,8 @@
+-r https://raw.githubusercontent.com/robotframework/RIDE/master/requirements.txt
+robotframework-ride==2.0b1
+robotframework-requests
+robotframework-faker
+robotframework-metrics
+xlrd
+lxml
+allure-robotframework
